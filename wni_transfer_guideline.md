@@ -23,6 +23,22 @@ header-includes:
         ```
 ...
 
+# Account
+## Bunbu
+
+- Google account:
+```
+username: duy.lai.khang@bunbusoft.com
+password: sieu_123
+```
+
+- Github:
+
+Github account contains repo for nowcasting code.
+```
+username: bunbuduylai
+password: Sieu_2004
+```
 
 # WNI script
 
@@ -78,7 +94,9 @@ PWCNet
 
 ## Data
 
-The data we use is 3 type of weather, which is in these date. Please apply the algorithms on all of these date, and compare them with the existing algorithms.
+The data we use is 3 types of weather, which is in these dates. Please apply the algorithms on all of these dates, and compare them with the existing algorithms.
+
+The data is stored in ```/media/hdd0/D2_high_res_jma/raw/``` in the server.
 
 1. Squall line
 
@@ -106,6 +124,13 @@ The data we use is 3 type of weather, which is in these date. Please apply the a
 - 2020/05/11
 
 These data could be cut to match the storm map.
+
+## Give harupy sans the definition of .flo files and pwcnet model.
+
+.flo is a global extension of opticalflow. Research and give harupy sans the documents for flo files.
+
+
+Give harupy sans the flownet2 and pwcnet model for the environment setup.
 
 ## Add PWCNet and FlowNet2 on the nowcasting code
 
